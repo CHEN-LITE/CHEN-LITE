@@ -49,3 +49,4 @@ bash setup
 
 ### Subscribe to my YouTube channel to get updated script 
 https://youtube.com/@chenlite2?si=OoQzUEJe2wQXZWB3
+ 
