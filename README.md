@@ -31,16 +31,16 @@ bash setup
 2. Select option 1
 3. Select your pak file
 4. And the result will be like this
-![Result](/screenshot/complete_extraction.jpg)
+![Result](/Screenshot_20241005-225714.jpg)
 
 ## Repacking
 1. Run ```bash chenlite```
 2. Select option 2
 3. Select your pak file
 4. And the result will be like this
-![Result](/screenshot/complete_repacking.jpg)
+![Result](/Screenshot_20241005-155135.jpg)
 5. Before and After Repacking
-![Result](/screenshot/beforeafter_repacking.jpg)
+![Result](/Screenshot_20241005-225030.jpg)
 
 # Credits
 ### CHEN-LITE
