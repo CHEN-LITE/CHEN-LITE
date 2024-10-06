@@ -1,24 +1,51 @@
+# CHEN-LITE OBB TOOL
+_CHEN-LITE_OBB is a tool created to modify the PUBG Mobile PUBG LITE BGMI OBB PAK file. This tool is still in the process of being developed and unstable, however, this tool can extract pak files and the results can be read by a text editor._
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@chenlite2?si=OoQzUEJe2wQXZWB3) 
+## Installing
+1. Install Termux from PlayStore,
+2. Open the Termux App and wait for the installation process,
+3. Enter This Command:
+```
+termux-setup-storage
+pkg update
+pkg upgrade
+pkg install git
+```
+4. Clone this repository
+```
+git clone https://github.com/CHEN-LITE/CHEN-LITE.git
+```
+5. Open CHEN-LITE_OBB directory and run setup.
+```
+cd CHEN-LITE
+chmod 775 setup
+bash setup
+```
+6. Done.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CHEN-LITE&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CHEN-LITE&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEN-LITE&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## OBB Path Info
+#### Put your OBB in `sdcard/Download/CHEN-LITE_OBB`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CHEN-LITE&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+## Unpacking
+1. Run ```bash chenlite```
+2. Select option 1
+3. Select your pak file
+4. And the result will be like this
+![Result](/screenshot/complete_extraction.jpg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## Repacking
+1. Run ```bash chenlite```
+2. Select option 2
+3. Select your pak file
+4. And the result will be like this
+![Result](/screenshot/complete_repacking.jpg)
+5. Before and After Repacking
+![Result](/screenshot/beforeafter_repacking.jpg)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CHEN-LITE&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+# Credits
+### CHEN-LITE
+### PAK MODDING 
+### https://t.me/+b2BiPed1kaw0MGVl
 
----
-[![](https://visitcount.itsvg.in/api?id=CHEN-LITE&icon=2&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Subscribe to my YouTube channel to get updated script 
+https://youtube.com/@chenlite2?si=OoQzUEJe2wQXZWB3
